@@ -5,6 +5,7 @@
 int main()
 {
     int i;
+    itn abc,dfg;
     int arr[12];
 
     srand((unsigned) time(0));
@@ -22,4 +23,6 @@ int main()
         printf("%2d ",arr[i]);
 
     return 0;
+    //wntjr
+
 }
